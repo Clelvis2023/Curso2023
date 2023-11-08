@@ -13,3 +13,5 @@ Comando git fetch
 nova linha de comando
 
 incluindo mais uma linha de comando
+
+comando git diff
