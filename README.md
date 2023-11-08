@@ -11,3 +11,5 @@ comando git pull
 Comando git fetch
 
 nova linha de comando
+
+incluindo mais uma linha de comando
