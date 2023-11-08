@@ -8,6 +8,6 @@ nova linha de comando
 
 comando git pull
 
-Comando git fet
+Comando git fetch
 
-nova linha
+exclusão de linha
