@@ -7,3 +7,5 @@ teste
 nova linha de comando
 
 comando git pull
+
+Comando git fet
