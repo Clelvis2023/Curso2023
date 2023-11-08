@@ -10,4 +10,4 @@ comando git pull
 
 Comando git fetch
 
-exclusão de linha
+nova linha de comando
